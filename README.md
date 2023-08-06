@@ -1,6 +1,10 @@
 # ThreadedReplies
 
 ThreadedReplies is a React application visualizing a threaded comment system.
+## Netify Link
+https://sandeep-assignment-rentomojo-solution.netlify.app/
+
+
 
 ## Installation and Setup
 
